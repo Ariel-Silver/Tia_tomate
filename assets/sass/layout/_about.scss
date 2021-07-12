@@ -1,0 +1,52 @@
+.main_section_about {
+    background-color: $jelly-bean;
+    height: 160px;
+   
+    h3 { 
+    font-family: $raleway;
+    text-align: center;
+    color: $white;
+    font-size: $x-large;
+    font-weight: $bold;
+    padding-top: 40px;
+   }
+   }
+   
+   .main_section_about-img1 {
+       display: block;
+       margin-left: auto;
+       margin-right: auto;
+       height:30%;
+       width: 40%;
+       padding-top: 80px;
+   }
+   
+   .main_section_about-img2 {
+       display: block;
+       margin-left: auto;
+       margin-right: auto;
+       height:30%;
+       width: 40%;
+       padding-top: 20px;
+   }
+   
+   .main_section_about__text {
+       padding: 0% 15% 0% 15%;
+       
+       h3 {
+           font-family: $raleway;
+           color: $granite-gray;
+           font-size: $large;
+           font-weight: $bold;  
+           text-align: center;
+       }
+   
+       p {
+           font-family: $raleway;
+           color: $granite-gray;
+           font-size: $medium;
+           font-weight: $regular;  
+           text-align: left;
+       }
+   
+   }

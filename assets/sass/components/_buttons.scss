@@ -1,0 +1,14 @@
+.main_section_button-button {
+    height: 60px;
+    border-radius: 40px;
+    border-style: solid;
+    background-color: $white;
+    color: $granite-gray;
+    font-size: $medium;
+    font-weight: $bold;
+
+    &:hover {
+        background-color: $white;
+        color: $granite-gray;
+     }
+}
